@@ -1,6 +1,7 @@
 ## Speech to Text
 
 ## Preview
+<img href="./src/assets/preview.png">
 
 ## Descrição
 <p> Este projeto foi desenvolvido no decorrer do evento NLW Expert da <a href="https://www.rocketseat.com.br/" target="_blank" rel="noopener noreferrer">Rocketseat</a>.  </p>
